@@ -1,7 +1,4 @@
 ---
-title: Welcome to my GitHub
----
-
----
-I have attched all my projects. 
+title: Welcome to my blog
+description: I have attched all details of my projects. 
 ---
